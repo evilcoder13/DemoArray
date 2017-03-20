@@ -4,3 +4,6 @@ c:\users\admin\documents\visual studio 2013\Projects\ArrayDemo\ArrayDemo\bin\Deb
 c:\users\admin\documents\visual studio 2013\Projects\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.csprojResolveAssemblyReference.cache
 c:\users\admin\documents\visual studio 2013\Projects\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.exe
 c:\users\admin\documents\visual studio 2013\Projects\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.pdb
+C:\Users\Admin\Desktop\DemoArray\ArrayDemo\bin\Debug\ArrayDemo.exe.config
+C:\Users\Admin\Desktop\DemoArray\ArrayDemo\obj\Debug\ArrayDemo.exe
+C:\Users\Admin\Desktop\DemoArray\ArrayDemo\obj\Debug\ArrayDemo.pdb
